@@ -1,4 +1,4 @@
-(*Magine à registre Axel Verneuil, Valentin Guy-Deroubaix*)
+(*Magine à registre Axel Verneuil, Valentin Guy-Deroubaix, 681C*)
 
 
 type label = Label of int;; (*name of the nth register*)
